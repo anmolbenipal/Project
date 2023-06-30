@@ -1,0 +1,138 @@
+.reg{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.reg .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.reg .form-box{
+    position: relative;
+    width: 400px;
+    height: 550px;
+    border: 2px solid rgba(255,255,2550.5);
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.reg .form-box h2{
+color:#fff;
+text-align: center;
+font-size: 32px;
+}
+.reg .form-box .input-box{
+position: relative;
+margin: 30px 0;
+width: 310px;
+
+;
+}
+.reg.form-box .input-box input{
+width: 100%;
+height: 45px;
+background: transparent;
+border: none;
+outline: none;
+padding: 0 2px 0 5px;
+color: darkgrey;
+font-size: 16px;
+
+
+}
+.reg input::placeholder{
+color:rgb(70, 69, 69);
+font-size: 16px;
+
+}
+.reg .btn{
+color: white;
+background: purple;
+width: 100%;
+height: 50px;
+border-radius: 5px;
+border: none;
+outline: none;
+font-size: 17px;
+cursor: pointer;
+}
+.reg .btn:hover{
+  background: darkmagenta;
+}
+.reg .group{
+display: flex;
+justify-content: space-between;
+}
+.reg .group span a{
+ color: white;
+ position: relative;
+ top: 10px;
+ text-decoration: none;
+ font-weight: 500;
+}
+.reg .group a:focus{
+text-decoration: underline;
+}
+.reg i{
+position: absolute;
+color: white;
+top: 13px;
+right: 0;
+}
+.reg #result{
+color: red;
+font-weight: 600;
+position: relative;
+top: 25px;
+}
+.reg .popup{
+ width: 400px;
+ border-radius: 6px;
+ background-color: white;
+ position: absolute;
+ top: 0;
+ left: 50%;
+ transform: translate(-50%,-50%)scale(0);
+ transition:transform .4s , top .4s ;
+ visibility: hidden;
+ text-align: center;
+ padding: 0 30px 30px;
+ height: 330px;
+ color: black;
+}
+.popup ion-icon{
+color: #00ff00;
+font-size: 50px;
+}
+.reg .popup button{
+  width: 100%;
+  background-color: #00ff00;
+  padding:10px 0;
+  margin-top: 50px;
+  border:none;
+  outline: none;
+  font-size: 18px;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  box-shadow: 0 0 0 2px rgba(0,0,0,.1);
+}
+.reg .popup a{
+color: #fff;
+text-decoration: none;
+font-weight: 600;
+letter-spacing: 2px;
+}
+.reg .open-slide{
+ top:50%;
+ transform: translate(-50%,-50%) scale(1);
+ visibility: visible;
+}
+.reg .popup h2{
+    font-weight:500 ;
+    font-size: 38px;
+    margin: 30px 0 10px;
+}

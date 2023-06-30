@@ -1,0 +1,50 @@
+.header .menu{
+    column-gap: 38px;
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+.nav__item a{
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 1.1rem;
+    text-decoration: none;
+}
+
+.header .btn{
+    margin-left: 10px;
+}
+
+.header{
+    width: 100%;
+    height: 70px;
+    line-height: 28px;
+    background: black;
+    color: white;
+    column-gap: 0.3rem;
+    padding: 5px;
+}
+
+.nav__item a.active__link{
+    color:darkgoldenrod;
+}
+.nav__item a:hover{
+    color:#ccc;
+}
+.mobile__menu i{
+    margin-left: 20px;
+    color: white;
+    margin-right: 2px;
+}
+.sticky__header{
+    position: sticky;
+    top: 0;
+    left: 0;
+   
+    z-index: 999;
+}
+.nav__btns .btn:hover{
+    color: black;
+}
+

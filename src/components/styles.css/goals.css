@@ -1,0 +1,22 @@
+.end {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+    color: #fff;
+}
+.of{
+    padding-bottom: 5%;
+}
+.goals{
+    background: url(../Images/04.png);
+    background-size: cover;
+    text-align: center;
+}
+#goals{
+    padding:100px;
+    margin-top: 30px;
+}
+.goals .btn{
+    margin-right: 10px;
+}
