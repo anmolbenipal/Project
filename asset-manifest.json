@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Project/static/css/main.b8c6b4a5.css",
+    "main.js": "/Project/static/js/main.9bc4ff23.js",
+    "static/media/healthvideo.mp4": "/Project/static/media/healthvideo.846dd9d173756946cb12.mp4",
+    "static/media/img1.jpg": "/Project/static/media/img1.788fcbe9af456690bf22.jpg",
+    "static/media/health1.jpg": "/Project/static/media/health1.daa7e973d49d7af5d3d8.jpg",
+    "static/media/health2.jpg": "/Project/static/media/health2.f2d2fbba259cb38dd80a.jpg",
+    "static/media/remixicon.svg?t=1590207869815": "/Project/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/04.png": "/Project/static/media/04.579f331d5946a671d8a7.png",
+    "static/media/remixicon.eot?t=1590207869815": "/Project/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/Project/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/ava-1.jpg": "/Project/static/media/ava-1.c185d7723fe40ec46830.jpg",
+    "static/media/ava-3.jpg": "/Project/static/media/ava-3.1442075049ece43143f2.jpg",
+    "static/media/ava-2.jpg": "/Project/static/media/ava-2.11e918c656d0c7851624.jpg",
+    "static/media/remixicon.woff?t=1590207869815": "/Project/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/contact.jpg": "/Project/static/media/contact.2de06d145d8184ff07e8.jpg",
+    "static/media/remixicon.woff2?t=1590207869815": "/Project/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/yoga-pose.png": "/Project/static/media/yoga-pose.1009817918cc6df26064.png",
+    "static/media/extended.png": "/Project/static/media/extended.65fee2ef368e447527a7.png",
+    "static/media/lunges.png": "/Project/static/media/lunges.52e48615ce527a095bcf.png",
+    "index.html": "/Project/index.html",
+    "main.b8c6b4a5.css.map": "/Project/static/css/main.b8c6b4a5.css.map",
+    "main.9bc4ff23.js.map": "/Project/static/js/main.9bc4ff23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8c6b4a5.css",
+    "static/js/main.9bc4ff23.js"
+  ]
+}
